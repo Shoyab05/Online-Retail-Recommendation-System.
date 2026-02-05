@@ -1,0 +1,18 @@
+System Requirements:
+
+Operating System: Windows / Linux / macOS
+Programming Language: Python
+Python Version: 3.7 or above
+
+Libraries Used:
+1. Pandas – for data manipulation and analysis
+2. NumPy – for numerical computations
+3. Scikit-learn – for machine learning and cosine similarity
+4. Openpyxl – for reading Excel dataset
+5. Jupyter Notebook – for implementation and execution
+
+Hardware Requirements:
+Processor: Intel i3 or above
+RAM: Minimum 4 GB
+Storage: Minimum 2 GB free space
+
